@@ -1,11 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Assingment 1
- * Date: February 17, 2019
- */
-
 //Imported package to allow user input.
 import java.util.Scanner;
 
