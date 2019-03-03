@@ -1,11 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Assingment 1
- * Date: February 17, 2019
- */
-
 /**
   * The purpose of this class is to allow the initialization of a ChequingAccount object.
   * This class holds the logic needed to create a new chequing account, displaying account information,
