@@ -4,5 +4,5 @@ a user(bank employee) to create accounts and add client information to them. The
 display account details, perform monthly updates(monthly fees/interest)
 
 # Things I learned
--I learned how to implement javadoc to my projects
--I gained a better understanding of inheritance and encapsulation
+- I learned how to implement javadoc to my projects
+- I gained a better understanding of inheritance and encapsulation
