@@ -1,11 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Lab 07
- * Date: March 31, 2019
- */
-
 /**
   * The purpose of this class is to allow the instantiating of a custom exception object.
   * This class holds the logic behind the creation of the error message as well as a method to retrieve it.
