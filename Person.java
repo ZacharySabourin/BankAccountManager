@@ -1,12 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Lab 07
- * Date: March 31, 2019
- */
-
-
 /**
   * The purpose of this class is allow the initialization of a Person object that uses a first name, last name
   * and email as parameters. This class allows the retrieval of the user's information through a few getter methods.
