@@ -1,12 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Lab 07
- * Date: March 31, 2019
- */
-
-
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Paths;
