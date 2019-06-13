@@ -1,12 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Lab 07
- * Date: March 31, 2019
- */
-
-
 /**
   * The purpose of this class is to allow the initialization of a SavingsAccount object.
   * This class holds the logic needed to create a new savings account, displaying account information,
