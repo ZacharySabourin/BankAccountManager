@@ -1,11 +1,3 @@
-/*
- * Name: Zachary Sabourin
- * Student ID: 040940295
- * Course & Section: CST8132 311
- * Assignment: Lab 07
- * Date: March 31, 2019
- */
-
 //Imported package to allow the formatting of the account balance, monthly fee, minimum balance and interest rate.
 //Used by sub-classes
 import java.text.DecimalFormat;
